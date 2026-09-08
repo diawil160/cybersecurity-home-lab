@@ -14,6 +14,14 @@ The original environment was built around a Windows domain and included:
 - Domain-joined Windows clients
 - VMware Workstation virtualization
 
+### VMware Lab Environment
+
+![VMware Home Lab](65cc3fff-2118-47c0-8a7b-64cc53a1481b.png)
+
+### Windows Domain Configuration
+
+![Windows Domain PowerShell](c37c00cb-79bc-4a34-bebf-fdc0c878ac50.png)
+
 This provided a dedicated environment where I could practice Windows Server and Active Directory administration outside of temporary classroom lab environments.
 
 ## 🐧 Linux Expansion
