@@ -1,4 +1,4 @@
-# 🧪 Cybersecurity Home Lab
+### 🖥️ Cybersecurity Home Lab
 
 This repository documents my personal cybersecurity home lab built using VMware Workstation. The environment originally began as a Windows administration lab and has since expanded into a multi-system environment that I use to practice system administration, Linux, networking, security hardening, and cybersecurity testing.
 
